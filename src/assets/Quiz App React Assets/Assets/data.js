@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the capital of India ?",
+      option1: "Rajasthan",
+      option2: "New delhi",
+      option3: "Uttarakhand",
+      option4: "Madhya pradesh",
+      ans: 2,
+    },
+    {
+      question: "What currency is used in India ?",
+      option1: "doller",
+      option2: "dhiram",
+      option3: "ruppe",
+      option4: "euro",
+      ans: 3,
+    },
+    {
+      question: "what is the national animal of india ?",
+      option1: "lion",
+      option2: "cheeta",
+      option3: "elephant",
+      option4: "tiger",
+      ans: 4,
+    },
+    {
+      question: "what is the national bird of india ?",
+      option1: "swan",
+      option2: "peacock",
+      option3: "duck",
+      option4: "eagel",
+      ans: 2,
+    },
+    {
+      question: "what is the national flower of india ?",
+      option1: "rose",
+      option2: "lotus",
+      option3: "merigold",
+      option4: "rosemerry",
+      ans: 2,
+    },
+  ];
